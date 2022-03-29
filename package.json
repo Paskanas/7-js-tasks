@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev1": "nodemon ./js/iniciateVariables.js",
-    "dev2": "nodemon ./js/actionsWithVariables.js"
+    "dev": "nodemon ."
   },
   "keywords": [],
   "author": "Paskanas",
