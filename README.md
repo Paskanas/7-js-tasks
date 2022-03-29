@@ -12,11 +12,15 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Tasks: https://docs.google.com/document/d/1UnM5MzO7KPf-atlz3HXPJN8XlaN37nlUJ7fp6GwvIZ8/edit#
 
-To do:
+Done:
 
 - Kintamųjų inicijavimas
 - Veiksmai su kintamaisiais
 - Kintamųjų palyginimas
+- Ciklo for panaudojimas
+
+Not done:
+- Funkcijos
 
 ## Project features
 
